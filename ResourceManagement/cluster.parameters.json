@@ -25,25 +25,25 @@
         "value": "587B5F70A073040CF76253C71B10FEB11A591386s"
       },
         "nicName": {
-            "value": "NIC-mi-test"
+            "value": "NIC-zz-mi-test"
         },
         "publicIPAddressName": {
-            "value": "mi-test-PubIP"
+            "value": "zz-mi-test-PubIP"
         },
         "dnsName": {
-            "value": "mi-test"
+            "value": "zz-mi-test"
         },
         "virtualNetworkName": {
-            "value": "VNet-mi-test"
+            "value": "VNet-zz-mi-test"
         },
         "lbName": {
-            "value": "LB-mi-test"
+            "value": "LB-zz-mi-test"
         },
         "lbIPName": {
-            "value": "LBIP-mi-test"
+            "value": "LBIP-zz-mi-test"
         },
         "clusterName": {
-            "value": "mi-test"
+            "value": "zz-mi-test"
         },
         "applicationDiagnosticsStorageAccountName": {
             "value": "sfdgmitest8275"
